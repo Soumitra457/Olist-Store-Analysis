@@ -1,4 +1,10 @@
 # Olist-Store-Analysis
+•	Analyzed customer orders and payments in Sao Paulo city using Power BI. 
+•	Visualized average payment value  and average  price  for Sao Paulo city, highlighting its key role in revenue contribution.
+•	Built charts to show how customers in Sao Paulo use credit cards and leave reviews.
+•	Delivered actionable insights to support marketing and logistics strategies focused on Brazil’s top market
+
+
 ![Screenshot 2025-05-20 172343](https://github.com/user-attachments/assets/54ed8638-6db7-4666-962b-12a00065a3f4)
 
 ![Screenshot 2025-05-20 163959](https://github.com/user-attachments/assets/353adbf6-3d86-46bf-ab76-ee435be16914)
